@@ -1,0 +1,11 @@
+C:\Users\Luxior\source\repos\AureportLogScanner\bin\Debug\netcoreapp3.1\AureportLogScanner.exe
+C:\Users\Luxior\source\repos\AureportLogScanner\bin\Debug\netcoreapp3.1\AureportLogScanner.deps.json
+C:\Users\Luxior\source\repos\AureportLogScanner\bin\Debug\netcoreapp3.1\AureportLogScanner.runtimeconfig.json
+C:\Users\Luxior\source\repos\AureportLogScanner\bin\Debug\netcoreapp3.1\AureportLogScanner.runtimeconfig.dev.json
+C:\Users\Luxior\source\repos\AureportLogScanner\bin\Debug\netcoreapp3.1\AureportLogScanner.dll
+C:\Users\Luxior\source\repos\AureportLogScanner\bin\Debug\netcoreapp3.1\AureportLogScanner.pdb
+C:\Users\Luxior\source\repos\AureportLogScanner\obj\Debug\netcoreapp3.1\AureportLogScanner.csprojAssemblyReference.cache
+C:\Users\Luxior\source\repos\AureportLogScanner\obj\Debug\netcoreapp3.1\AureportLogScanner.AssemblyInfoInputs.cache
+C:\Users\Luxior\source\repos\AureportLogScanner\obj\Debug\netcoreapp3.1\AureportLogScanner.AssemblyInfo.cs
+C:\Users\Luxior\source\repos\AureportLogScanner\obj\Debug\netcoreapp3.1\AureportLogScanner.dll
+C:\Users\Luxior\source\repos\AureportLogScanner\obj\Debug\netcoreapp3.1\AureportLogScanner.pdb
